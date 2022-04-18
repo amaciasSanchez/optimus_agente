@@ -1,0 +1,267 @@
+[
+  {
+    "brandCode": "4685",
+    "credidCardBrand": "alia",
+	"financialInstitution":"ALIA"
+  },
+  {
+    "brandCode": "4684",
+    "credidCardBrand": "alia",
+	"financialInstitution":"ALIA"
+  },
+  {
+    "brandCode": "435",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3050",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3049",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3048",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3047",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3046",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3045",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3044",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3043",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3042",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3041",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3040",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3039",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3038",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3037",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3036",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3035",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3034",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3033",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3032",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3031",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3030",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3029",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3028",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3027",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3026",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3025",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3024",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3023",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3022",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3021",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3020",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3019",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3018",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3017",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3016",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3015",
+    "credidCardBrand": "discover",
+	"financialInstitution":"DISCOVER"
+  },
+  {
+    "brandCode": "3014",
+    "credidCardBrand": "discover",
+	"financialInstitution":"DISCOVER"
+  },
+  {
+    "brandCode": "3013",
+    "credidCardBrand": "discover",
+	"financialInstitution":"DISCOVER"
+  },
+  {
+    "brandCode": "3012",
+    "credidCardBrand": "discover",
+	"financialInstitution":"DISCOVER"
+  },
+  {
+    "brandCode": "3011",
+    "credidCardBrand": "amex",  
+	"financialInstitution":"AMERICAN EXPRESS"
+  },
+  {
+    "brandCode": "3010",
+    "credidCardBrand": "amex",  
+	"financialInstitution":"AMERICAN EXPRESS"
+  },
+  {
+    "brandCode": "3009",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3008",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3007",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3006",
+    "credidCardBrand": "mastercard",
+	"financialInstitution":"MASTERCARD"
+  },
+  {
+    "brandCode": "3005",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3004",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },{
+    "brandCode": "3003",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3002",
+    "credidCardBrand": "visa",
+	"financialInstitution":"VISA"
+  },
+  {
+    "brandCode": "3001",
+    "credidCardBrand": "diners",
+	"financialInstitution":"DINERS"
+  }
+  
+]
